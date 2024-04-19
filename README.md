@@ -1,4 +1,3 @@
-[TOC]
 
 ## Installation
 
@@ -33,6 +32,9 @@ COCO2017
         ├── ...
         └── 000000581781.jpg
 ```
+
+### Pretrained Checkpoint
+Download the pretrained checkpoint from [here](https://mbzuaiac-my.sharepoint.com/:f:/g/personal/jiantong_zhao_mbzuai_ac_ae/EufPAWetphdOh3cnevfhGjkBEOZfw9fUvEOsk5w95c3fcQ?e=aVijHB) and put the files into CV703_Project/checkpoints directory.
 
 ## Evaluation
 
